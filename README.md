@@ -52,6 +52,6 @@ Commercial experience with real production websites + team projects (GoIT). Comf
 
 ## 📫 How to reach me
 - Email: **riky.droyg@gmail.com**
-- Telegram: **(add link)**
-- LinkedIn: **(add link)**
+- Telegram: https://t.me/Riky_Droug
+- LinkedIn: https://www.linkedin.com/in/oleksandr-blokha-bb81322ba/
 - Location: **Lutsk, Ukraine**
