@@ -23,8 +23,8 @@ Commercial experience with real production websites + team projects (GoIT). Comf
 
 **Front-end Developer — EveryDev (contract, remote)** | **01.09.2025–31.10.2025**  
 - Developed front-end parts of production websites:
-  - Europass: https://europass.nqa.gov.ua/
-  - Euroguidance: https://euroguidance.nqa.gov.ua/
+  - Europass: https://europass.nqa.gov.ua/ Repo: https://github.com/Modem-i4/Europass
+  - Euroguidance: https://euroguidance.nqa.gov.ua/ Repo: https://github.com/Modem-i4/Euroguidance
 - Implemented responsive layouts from mockups and integrated UI into existing backend logic  
 - Improved UI components/styles and collaborated with backend + content team using Git/GitHub  
 
