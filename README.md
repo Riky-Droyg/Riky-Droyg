@@ -34,18 +34,14 @@ Commercial experience with real production websites + team projects (GoIT). Comf
 
 - **CoffeeJoy Landing Page** — Team Project *(Team Lead & Front-end Developer)*  
   Responsive landing page, team collaboration, structured layout and UI implementation.  
-  Repo: **(https://github.com/Riky-Droyg/coffeejoy-project)** 
-  Live: **(https://riky-droyg.github.io/coffeejoy-project/)**
+  Repo: https://github.com/Riky-Droyg/coffeejoy-project
+  Live: https://riky-droyg.github.io/coffeejoy-project/
 
 - **Paws’ Little Home** — Team Project *(Team Lead & Front-end Developer)*  
   Adaptive website for an animal shelter (catalog, details page, adoption form).  
-  Repo: **(https://github.com/Riky-Droyg/paws-little-home)**  
-  Live: **(https://riky-droyg.github.io/paws-little-home/)**
-
-- **(Optional) Animals Project** — Personal/Team Project  
-  Repo: https://github.com/Riky-Droyg/animals-project  
-  Live: **(add link)**
-
+  Repo: https://github.com/Riky-Droyg/paws-little-home
+  Live: https://riky-droyg.github.io/paws-little-home/
+  
 ---
 
 ## 🌍 Languages
