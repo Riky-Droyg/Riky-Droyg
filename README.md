@@ -1,3 +1,5 @@
+## Junior Frontend Developer | React | TypeScript | Next.js
+
 # 👋 Hi, I'm Oleksandr Blokha
 
 ## Front-end Developer | HTML | CSS | JavaScript
