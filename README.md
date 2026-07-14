@@ -1,18 +1,21 @@
-## Junior Frontend Developer | React | TypeScript | Next.js
-
 # 👋 Hi, I'm Oleksandr Blokha
 
-## Front-end Developer | HTML | CSS | JavaScript
+## Junior Frontend Developer | React | TypeScript | Next.js
 
-Front-end Developer focused on building **responsive, cross-browser UIs** from design mockups (Figma) and integrating them into existing projects.  
-Commercial experience with real production websites + team projects (GoIT). Comfortable working in teams with **Git/GitHub**.
+Frontend Developer with commercial and team-project experience building responsive web interfaces.
+
+Currently focused on **React, TypeScript, Next.js, REST API integration, and modern frontend architecture**. Experienced in translating Figma designs into responsive interfaces, integrating UI into existing projects, and collaborating through Git/GitHub.
 
 ---
 
 ## 🧰 Tech Stack
+![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000?logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-000?logo=vite&logoColor=white)
@@ -23,27 +26,36 @@ Commercial experience with real production websites + team projects (GoIT). Comf
 
 ## 💼 Work Experience
 
-**Front-end Developer — EveryDev (contract, remote)** | **01.09.2025–31.10.2025**  
-- Developed front-end parts of production websites:
-  - Europass: https://europass.nqa.gov.ua/ Repo: https://github.com/Modem-i4/Europass
-  - Euroguidance: https://euroguidance.nqa.gov.ua/ Repo: https://github.com/Modem-i4/Euroguidance
-- Implemented responsive layouts from mockups and integrated UI into existing backend logic  
-- Improved UI components/styles and collaborated with backend + content team using Git/GitHub  
+**Front-end Developer — EveryDev (Contract, Remote)** | **Sep 2025 – Oct 2025**
+
+- Developed production frontend features using **Next.js**.
+- Built responsive UI from Figma and integrated it with existing backend logic.
+- Collaborated with developers through Git/GitHub.
+- Contributed to:
+  - Europass: https://europass.nqa.gov.ua/
+  - Euroguidance: https://euroguidance.nqa.gov.ua/
 
 ---
 
 ## 🚀 Featured Projects
 
-- **CoffeeJoy Landing Page** — Team Project *(Team Lead & Front-end Developer)*  
-  Responsive landing page, team collaboration, structured layout and UI implementation.  
-  Repo: https://github.com/Riky-Droyg/coffeejoy-project
-  Live: https://riky-droyg.github.io/coffeejoy-project/
+### CoffeeJoy — Team Project (Team Lead & Front-end Developer)
+- Responsive landing page
+- Team collaboration
+- Adaptive UI
+- Git workflow
 
-- **Paws’ Little Home** — Team Project *(Team Lead & Front-end Developer)*  
-  Adaptive website for an animal shelter (catalog, details page, adoption form).  
-  Repo: https://github.com/Riky-Droyg/paws-little-home
-  Live: https://riky-droyg.github.io/paws-little-home/
-  
+**Repository:** https://github.com/Riky-Droyg/coffeejoy-project  
+**Live Demo:** https://riky-droyg.github.io/coffeejoy-project/
+
+### Paws' Little Home — Team Project (Team Lead & Front-end Developer)
+- Animal shelter website
+- Adaptive layout
+- Interactive UI
+
+**Repository:** https://github.com/Riky-Droyg/paws-little-home  
+**Live Demo:** https://riky-droyg.github.io/paws-little-home/
+
 ---
 
 ## 🌍 Languages
@@ -52,8 +64,8 @@ Commercial experience with real production websites + team projects (GoIT). Comf
 
 ---
 
-## 📫 How to reach me
+## 📫 Contact
 - Email: **riky.droyg@gmail.com**
 - Telegram: https://t.me/Riky_Droug
 - LinkedIn: https://www.linkedin.com/in/oleksandr-blokha-bb81322ba/
-- Location: **Ukraine**
+- Location: Ukraine
