@@ -1,71 +1,54 @@
-# 👋 Hi, I'm Oleksandr Blokha
+# Hi, I'm Oleksandr Blokha
 
 ## Junior Frontend Developer | React | TypeScript | Next.js
 
-Frontend Developer with commercial and team-project experience building responsive web interfaces.
+Frontend developer with commercial experience delivering production websites and leading educational team projects. I build responsive interfaces with JavaScript, React, TypeScript, and Next.js.
 
-Currently focused on **React, TypeScript, Next.js, REST API integration, and modern frontend architecture**. Experienced in translating Figma designs into responsive interfaces, integrating UI into existing projects, and collaborating through Git/GitHub.
+## Experience
 
----
+**Frontend Developer — EveryDev (Contract, Remote)** | Sep 2025 – Oct 2025
 
-## 🧰 Tech Stack
-![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000?logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-000?logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000?logo=figma&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-000?logo=axios&logoColor=white)
+- Worked in a three-person team.
+- Implemented the frontend of two production educational websites: [Europass](https://europass.nqa.gov.ua/) and [Euroguidance](https://euroguidance.nqa.gov.ua/).
+- Worked with WordPress, Gutenberg, React inside custom Gutenberg blocks, HTML5, CSS3, JavaScript, and Git.
+- Learned the Gutenberg frontend workflow in approximately one week.
 
----
+## Featured Projects
 
-## 💼 Work Experience
+### 1. [TaskFlow Dashboard](https://github.com/Riky-Droyg/taskflow-dashboard)
 
-**Front-end Developer — EveryDev (Contract, Remote)** | **Sep 2025 – Oct 2025**
+A SaaS-style task and project management application with authentication, role-based project access, team workflows, calendar views, and dashboard analytics.
 
-- Developed production frontend features using **Next.js**.
-- Built responsive UI from Figma and integrated it with existing backend logic.
-- Collaborated with developers through Git/GitHub.
-- Contributed to:
-  - Europass: https://europass.nqa.gov.ua/
-  - Euroguidance: https://euroguidance.nqa.gov.ua/
+**Tech:** Next.js, React, TypeScript, PostgreSQL, Prisma, Better Auth, Zod, Vitest, Playwright
 
----
+### 2. [Paws’ Little Home](https://github.com/Riky-Droyg/paws-little-home)
 
-## 🚀 Featured Projects
+An adaptive animal shelter website developed by a nine-person team.
 
-### CoffeeJoy — Team Project (Team Lead & Front-end Developer)
-- Responsive landing page
-- Team collaboration
-- Adaptive UI
-- Git workflow
+**Role:** Team Lead & Frontend Developer
 
-**Repository:** https://github.com/Riky-Droyg/coffeejoy-project  
-**Live Demo:** https://riky-droyg.github.io/coffeejoy-project/
-
-### Paws' Little Home — Team Project (Team Lead & Front-end Developer)
-- Animal shelter website
-- Adaptive layout
-- Interactive UI
-
-**Repository:** https://github.com/Riky-Droyg/paws-little-home  
 **Live Demo:** https://riky-droyg.github.io/paws-little-home/
 
----
+### 3. [CoffeeJoy](https://github.com/Riky-Droyg/coffeejoy-project)
 
-## 🌍 Languages
+A responsive landing page for a specialty coffee brand developed by a ten-person team.
+
+**Role:** Team Lead & Frontend Developer
+
+**Live Demo:** https://riky-droyg.github.io/coffeejoy-project/
+
+## Core Skills
+
+React, Next.js, TypeScript, JavaScript, HTML5, CSS3, REST APIs, Git, GitHub, Vite, Figma
+
+## Languages
+
 - Ukrainian — Native
 - English — Pre-Intermediate
 
----
+## Contact
 
-## 📫 Contact
-- Email: **riky.droyg@gmail.com**
-- Telegram: https://t.me/Riky_Droug
-- LinkedIn: https://www.linkedin.com/in/oleksandr-blokha-bb81322ba/
+- Email: riky.droyg@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/oleksandr-blokha-bb81322ba/)
+- [Telegram](https://t.me/Riky_Droug)
 - Location: Ukraine
